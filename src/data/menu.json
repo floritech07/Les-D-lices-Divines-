@@ -1,0 +1,206 @@
+{
+  "restaurantName": "Les Délices Divines",
+  "tagline": "L'excellence gastronomique à portée de main.",
+  "contact": {
+    "phone": "+22900000000",
+    "whatsapp": "22900000000",
+    "email": "contact@delicesdivines.com",
+    "address": "Avenue de l'Excellence, Cotonou, Bénin",
+    "openingHours": "Lun - Dim: 11h00 - 23h00"
+  },
+  "menu": [
+    {
+      "id": 101,
+      "name": "Mini Pastels",
+      "description": "Petits chaussons farcis au thon et épices douces, sauce piquante maison.",
+      "price": 3000,
+      "category": "Amuse-gueules",
+      "popular": true,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Ailes de Poulet Croustillantes",
+      "description": "Marinées 24h, panure légère et croustillante, sauce barbecue fumée.",
+      "price": 4500,
+      "category": "Amuse-gueules",
+      "popular": false,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Tacos Minis",
+      "description": "Trio de mini tacos (bœuf, poulet, crevettes) avec guacamole frais.",
+      "price": 5000,
+      "category": "Amuse-gueules",
+      "popular": true,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 201,
+      "name": "Carpaccio de Bœuf",
+      "description": "Tranches fines de bœuf mariné, parmesan reggiano, roquette, huile d'olive vierge.",
+      "price": 9000,
+      "category": "Entrées",
+      "popular": false,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 202,
+      "name": "Salade Divine",
+      "description": "Mélange de jeunes pousses, avocat, crevettes grillées, pamplemousse et vinaigrette aux agrumes.",
+      "price": 8500,
+      "category": "Entrées",
+      "popular": true,
+      "image": "/images/gambas_royales.jpg"
+    },
+    {
+      "id": 301,
+      "name": "Souris d'Agneau Confite",
+      "description": "Cuite 7h à basse température, jus au romarin, tendre et fondante.",
+      "price": 14500,
+      "category": "Plats Résistants",
+      "popular": true,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 302,
+      "name": "Gambas Royales Flambées",
+      "description": "Gambas géantes grillées, flambées au pastis, sauce crémeuse.",
+      "price": 18000,
+      "category": "Plats Résistants",
+      "popular": true,
+      "image": "/images/gambas_royales.jpg"
+    },
+    {
+      "id": 303,
+      "name": "Filet de Capitaine Braisé",
+      "description": "Poisson frais local, cuisson braisée aux aromates, servi entier.",
+      "price": 13000,
+      "category": "Plats Résistants",
+      "popular": false,
+      "image": "/images/gambas_royales.jpg"
+    },
+    {
+      "id": 304,
+      "name": "Burger Signature 'Le Divin'",
+      "description": "Boeuf Wagyu, cheddar affiné, oignons confits, pain brioché artisanal.",
+      "price": 11000,
+      "category": "Plats Résistants",
+      "popular": true,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 305,
+      "name": "Poulet Yassa Premium",
+      "description": "La recette traditionnelle sublimée avec un poulet fermier et une sauce onctueuse.",
+      "price": 10500,
+      "category": "Plats Résistants",
+      "popular": false,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 401,
+      "name": "Alloco Doré",
+      "description": "Bananes plantains mûres frites à la perfection.",
+      "price": 2000,
+      "category": "Accompagnements",
+      "popular": true,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 402,
+      "name": "Ignames Frites",
+      "description": "Bâtonnets d'igname croustillants à l'extérieur, moelleux à l'intérieur.",
+      "price": 2000,
+      "category": "Accompagnements",
+      "popular": false,
+      "image": "/images/wagyu_burger.jpg"
+    },
+    {
+      "id": 403,
+      "name": "Riz Sauté aux Légumes",
+      "description": "Riz parfumé sauté au wok avec des petits légumes de saison.",
+      "price": 2500,
+      "category": "Accompagnements",
+      "popular": false,
+      "image": "/images/gambas_royales.jpg"
+    },
+    {
+      "id": 404,
+      "name": "Purée de Patate Douce",
+      "description": "Douce et onctueuse, montée au beurre demi-sel.",
+      "price": 3000,
+      "category": "Accompagnements",
+      "popular": false,
+      "image": null
+    },
+    {
+      "id": 501,
+      "name": "Fondant au Chocolat",
+      "description": "Cœur coulant chocolat noir 70%, glace vanille.",
+      "price": 5500,
+      "category": "Desserts",
+      "popular": true,
+      "image": "/images/signature_cocktail.jpg"
+    },
+    {
+      "id": 502,
+      "name": "Cheesecake Passion",
+      "description": "Fraîcheur des fruits exotiques sur un biscuit croustillant.",
+      "price": 6000,
+      "category": "Desserts",
+      "popular": false,
+      "image": "/images/signature_cocktail.jpg"
+    },
+    {
+      "id": 601,
+      "name": "Cocktail 'Larme d'Or'",
+      "description": "Gin, fleur de sureau, paillettes d'or.",
+      "price": 6000,
+      "category": "Boissons",
+      "popular": true,
+      "image": "/images/signature_cocktail.jpg"
+    },
+    {
+      "id": 602,
+      "name": "Mojito Royal",
+      "description": "Le classique revisité au champagne.",
+      "price": 7000,
+      "category": "Boissons",
+      "popular": false,
+      "image": "/images/signature_cocktail.jpg"
+    },
+    {
+      "id": 603,
+      "name": "Jus de Bissap Maison",
+      "description": "Fleurs d'hibiscus infusées avec menthe et vanille.",
+      "price": 2000,
+      "category": "Boissons",
+      "popular": true,
+      "image": "/images/signature_cocktail.jpg"
+    }
+  ],
+  "categories": [
+    "Plats principaux",
+    "Grillades",
+    "Spécialités locales",
+    "Fast food gourmet",
+    "Accompagnements",
+    "Jus naturels",
+    "Cocktails",
+    "Boissons"
+  ],
+  "reviews": [
+    {
+      "name": "Marc-Aurèle",
+      "text": "Une expérience inoubliable. Le cadre est magnifique et les plats sont d'une finesse rare.",
+      "stars": 5
+    },
+    {
+      "name": "Sophie K.",
+      "text": "Le meilleur burger gourmet de la ville ! Commande via WhatsApp fluide et rapide.",
+      "stars": 5
+    }
+  ]
+}
